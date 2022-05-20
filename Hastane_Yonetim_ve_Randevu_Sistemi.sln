@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hastane_Yonetim_ve_Randevu_Sistemi", "Hastane_Yonetim_ve_Randevu_Sistemi\Hastane_Yonetim_ve_Randevu_Sistemi.csproj", "{79680CC3-1BF6-4A46-95CC-430F13AC5894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79680CC3-1BF6-4A46-95CC-430F13AC5894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79680CC3-1BF6-4A46-95CC-430F13AC5894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79680CC3-1BF6-4A46-95CC-430F13AC5894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79680CC3-1BF6-4A46-95CC-430F13AC5894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56100BF7-D4E1-41B6-96E4-0E53866B0122}
+	EndGlobalSection
+EndGlobal
